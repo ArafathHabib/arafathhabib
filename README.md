@@ -4,7 +4,7 @@
 <h1 style="text-align:center;"
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+i'm+Arafath+Habib" alt="Typing SVG" /></a>
  </h1>
- <h2 align="center"> A beginner front end web developer from Sylhet, Bangladesh </h2>
+ <h6 align="center"> A beginner front end web developer from Sylhet, Bangladesh </h6>
 <p align="center"><img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" alt="Coder GIF" width="500"></p>
 
 
@@ -13,7 +13,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/muradmt201" target="blank"><img src="https://img.shields.io/twitter/follow/muradmt201?logo=twitter&style=for-the-badge" alt="arafath0022" /></a> </p> -->
 <br>
 <br>
-<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=6000&pause=3000&width=435&lines=Some+information+about+me" alt="Typing SVG" /></a></h2>
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=6000&pause=3000&width=435&lines=Some+information+about+me" alt="Typing SVG" /></a></h2>
 <br>
 
 - 🏫 I read in Class 9 at [Kanaighat Gov't High School](http://kghssyl.edu.bd)
@@ -29,14 +29,14 @@
 - 📫 How to reach me **developerarafath@gmail.com**
 <br>
 <br>
-<h2 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=000000&vCenter=true&repeat=true&width=950&lines=Connect+with+me" alt="Typing SVG" /></a></h2>
+<h2 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=6000&pause=3000&color=00B5FF&width=435&lines=Connect+with+me" alt="Typing SVG" /></a></h2>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arafath.habib.90)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arafathhabib)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developerarafath@gmail.com)
 <br>
 <br>
-<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=000000&width=950&lines=Skills" alt="Typing SVG" /></a></h2>
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=6000&pause=3000&color=00B5FF&width=435&lines=Skills" alt="Typing SVG" /></a></h2>
 
 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/arafathhabib)
@@ -60,7 +60,7 @@
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/arafathhabib)
 <br>
 <br>
-<h2 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=000000&width=950&lines=Github+States" alt="Typing SVG" /></a></h2>
+<h2 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=6000&pause=3000&color=00B5FF&width=435&lines=GitHub+States" alt="Typing SVG" /></a></h2>
 <!-- <a href="https://github.com/arafathhabib">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathhabib&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> -->
