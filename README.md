@@ -4,9 +4,7 @@
 <h1 style="text-align:center;"
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+i'm+Arafath+Habib" alt="Typing SVG" /></a>
  </h1>
- <div style="text-align:center;"
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=950&lines=A+beginner+front-end+web+developer+from+Sylhet%2C+Bangladesh." alt="Typing SVG" /></a>
- </div>
+ <h2 align="center"> A beginner front end web developer from Sylhet, Bangladesh </h2>
 <p align="center"><img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" alt="Coder GIF" width="500"></p>
 
 
@@ -15,7 +13,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/muradmt201" target="blank"><img src="https://img.shields.io/twitter/follow/muradmt201?logo=twitter&style=for-the-badge" alt="arafath0022" /></a> </p> -->
 <br>
 <br>
-<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=000000&width=950&lines=Here+are+some+information+about+me" alt="Typing SVG" /></a></h2>
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=6000&pause=3000&width=435&lines=Some+information+about+me" alt="Typing SVG" /></a></h2>
 <br>
 
 - 🏫 I read in Class 9 at [Kanaighat Gov't High School](http://kghssyl.edu.bd)
