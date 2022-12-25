@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Welcome+to+Arafath+Github+Profile)](https://git.io/typing-svg)
 <h1 align="center">Hi there👋, I'm Arafath Habib</h1>
 <h3 align="center">A beginner front-end web developer from Sylhet, Bangladesh.</h3>
 
@@ -65,4 +66,4 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avneesh0612&theme=radical](https://github-readme-streak-stats.herokuapp.com?user=arafathhabib&theme=github-dark&hide_border=true&border_radius=5&date_format=n%2Fj%5B%2FY%5D&background=1A2B34&border=FFFFFF&stroke=CBCBCB&ring=5DCBBE&fire=5DCBBE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5DCBBE&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats" />
 <p>
 <br>
-<br># arafathhabib
+<br>
