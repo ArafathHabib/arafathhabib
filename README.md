@@ -1,4 +1,4 @@
-<img align="center" src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Welcome+to+Arafath+Github+Profile)](https://git.io/typing-svg)"/>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Welcome+to+Arafath+Github+Profile" alt="Typing SVG" /></a>
 <h1 align="center">Hi there👋, I'm Arafath Habib</h1>
 <h3 align="center">A beginner front-end web developer from Sylhet, Bangladesh.</h3>
 
