@@ -4,7 +4,7 @@
 <h1 style="text-align:center;"
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+i'm+Arafath+Habib" alt="Typing SVG" /></a>
  </h1>
- <h6 align="center"> A beginner front end web developer from Sylhet, Bangladesh </h6>
+ <h3 align="center"> A beginner front end web developer from Sylhet, Bangladesh </h3>
 <p align="center"><img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" alt="Coder GIF" width="500"></p>
 
 
