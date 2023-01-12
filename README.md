@@ -15,7 +15,7 @@
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&color=009DC5&weight=500&size=30&duration=6000&pause=3000&width=435&lines=Some+information+about+me" alt="Typing SVG" /></a></h2>
 <br>
 
-- 🏫 I read in Class 9 at [Kanaighat Gov't High School](http://kghssyl.edu.bd)
+- 🏫 I read in Class 10 at [Kanaighat Gov't High School](http://kghssyl.edu.bd)
 
 - ⚡ Fun fact **I love cycling and travelling**
 
